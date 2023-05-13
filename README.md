@@ -1,4 +1,4 @@
-# Animation_Unity!
+# Animation_Unity
 
 This is a simple project that explores the addition of animated characters to an environment. The setting is the Unity 3D Sample Scene with HDRP. The character and animation has been downloaded through mixamo and then added to the scene. Below is a gif showing the simple animation of the character:
 
